@@ -1,0 +1,64 @@
+---------------------------------------------------------------------------------------
+|                  PASSWORD is provide the bottom of the description                  |
+---------------------------------------------------------------------------------------
+
+
+
+REDQUEEN Advance Chatbot
+---------------------------------------------------------------------------------------
+Description:
+1.This project easy to create or allocate the seating using python
+2.Fully Function and python binary or packages to used it.
+
+Package Installation :
+**************************
+Install the All list the packages using pip install package name
+Requirement : 
+python 3.11 version
+---------------------------
+Insatlling Packages : 
+#pip install numpy
+#pip install pyglet
+#pip install vlc
+#pip install pyaudio
+#pip install opencv-python
+#pip install pyautogui
+#pip install mediapipe
+#pip install pyttsx3
+#pip install python-pptx
+#pip install flask-mysqldb
+#pip install wikipedia
+#pip install psutil
+Then some package file is provide the the Redqueen.rar file 
+
+
+***********************************************************************************
+Execution of the REDQUEEN project
+-----------------------------------------------------------------------------------
+Step -1: Run the program
+Step -2: Enter the username and password
+          ADMIN and PASSWORD
+        ------------------------------
+            Default Username : Martin
+            Password : 4124182111
+step -3: Then Can enter the User command 
+step -4: Can take the given output of the user input
+
+----------------------------------------------------------------------------------------------
+REDQUEEN Features : 
+  The program is speek to the user using python librarys DAVID - is male voice and ZERA - is a Feamil voice. This REDQUEEN used to control the full system files include amazon, flipkart, meesho etc
+user can enter the name to AI can provide the input box user can enter the some product to search the product on the ecommers website and it's controllig mouse even also. Then search youtube video etc
+
+1.Google Search
+2.Online Shopping
+3.Voice to Access
+4.Controlling the Windows applicatios and folder for example Document, Download.
+5.Play Music.
+6.Face Recognition. etc
+
+The User command is provide of the Usercommend text file
+
+------------------------------------------------------------------
+
+
+PASSWORD : MSMARTINMARTI
